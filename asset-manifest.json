@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GokulPrasathRamkumar.githun.io/SocialMediaPostApp/static/css/main.cf194642.css",
+    "main.js": "/GokulPrasathRamkumar.githun.io/SocialMediaPostApp/static/js/main.b5354020.js",
+    "index.html": "/GokulPrasathRamkumar.githun.io/SocialMediaPostApp/index.html",
+    "main.cf194642.css.map": "/GokulPrasathRamkumar.githun.io/SocialMediaPostApp/static/css/main.cf194642.css.map",
+    "main.b5354020.js.map": "/GokulPrasathRamkumar.githun.io/SocialMediaPostApp/static/js/main.b5354020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf194642.css",
+    "static/js/main.b5354020.js"
+  ]
+}
